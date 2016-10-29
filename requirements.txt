@@ -1,0 +1,4 @@
+credentials==1.1
+ftfy==4.1.0
+textblob==0.11.1
+TwitterAPI==2.4.1
